@@ -6,16 +6,17 @@
    
 - Probabilidad de encontrar la partícula en una posición específica.
 - Probabilidad de transición entre dos vectores ket.
-  
-2. **Retos de Programación del Capítulo 4**
+
+**Retos de Programación del Capítulo 4**
+
 Los siguientes retos se han implementado en el simulador:
 
 - Amplitud de transición: Cálculo de la probabilidad de transición entre dos vectores después de hacer una observación.
 - Observable Hermitiano: Verificación de la hermiticidad de una matriz, y cálculo de la media y varianza del observable en un estado dado.
 - Valores Propios: Cálculo de los valores propios del observable y la probabilidad de que el sistema transite a alguno de los vectores propios después de la observación.
 - Dinámica del Sistema: Cálculo del estado final a partir de un estado inicial utilizando una serie de matrices.
-  
-3. **Problemas Adicionales**
+
+**Problemas Adicionales**
 Se han modelado e incluido ejemplos de los siguientes problemas:
 
 - 4.3.1
