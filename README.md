@@ -17,6 +17,7 @@ Los siguientes retos se han implementado en el simulador:
 - Dinámica del Sistema: Cálculo del estado final a partir de un estado inicial utilizando una serie de matrices.
 
 **Problemas Adicionales**
+
 Se han modelado e incluido ejemplos de los siguientes problemas:
 
 - 4.3.1
