@@ -1,6 +1,6 @@
 # ***Contenido:***
 
-# sistema cuántico descrito en la sección 4.1
+***sistema cuántico descrito en la sección 4.1***
 
 1. **Simulación del Sistema Cuántico El sistema permite especificar el número de posiciones y un vector ket de estado, asignando las amplitudes. Los siguientes cálculos son posibles**:
    
